@@ -1,13 +1,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoojung0618&count_bg=%239E3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi there 👋
-I'm a growing Developer.🌱<br>
-I'm interested in Frontend and Data Analysis.<br>
-I’m currently learning React, typescript and AWS Solution Architect.<br>
+🌱 I'm a growing Junior Developer.<br>
+🔭 I'm interested in Frontend and Data Analysis.<br>
+✏️ I’m currently learning React, typescript and AWS Solution Architect.<br>
 
 
 ### I'm currently working on...
-- [GongDada - Study management web](https://github.com/WoooDada) : React.js
+- [GongDada - Study management web application with Deep Learning](https://github.com/WoooDada) : React.js, YOLOv5
 - [BeanYard(GDSC Solution Challenge)](https://github.com/dsc-sookmyung/2022-Sook4-SolutionChallenge) : React.js
 - [Kusitms Corporate Project](https://github.com/Woojung0618/KUSITMS25_CorporateProject) (with [Readyme](https://www.readyme.kr/)) : React.js
 - [Kusitms forPet](https://github.com/Kusitms-25th-forPet) (still in development) : React, typescript
@@ -39,5 +39,5 @@ I’m currently learning React, typescript and AWS Solution Architect.<br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&mailto:woojung0618@gmail.com)](mailto:woojung0618@gmail.com)
 
 
- [![Woojung's github stats](https://github-readme-stats.vercel.app/api?username=Woojung0618)](https://github.com/Woojung0618/github-readme-stats)
+ [![Woojung's github stats](https://github-readme-stats.vercel.app/api?username=Woojung0618&theme=onedark)](https://github.com/Woojung0618/github-readme-stats)
  
