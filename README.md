@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/sublime text-FF9800?style=flat-square&logo=sublime text&logoColor=white"/> 
 
 
-## 📫Contact
+## Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&mailto:woojung0618@gmail.com)](mailto:woojung0618@gmail.com)
 
 
