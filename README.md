@@ -42,5 +42,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&mailto:woojung0618@gmail.com)](mailto:woojung0618@gmail.com)
 
 
- [![Woojung's github stats](https://github-readme-stats.vercel.app/api?username=Woojung0618&theme=jolly)](https://github.com/Woojung0618/github-readme-stats)
+<!--  [![Woojung's github stats](https://github-readme-stats.vercel.app/api?username=Woojung0618&theme=jolly)](https://github.com/Woojung0618/github-readme-stats) -->
  
