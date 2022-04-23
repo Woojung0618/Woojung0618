@@ -6,7 +6,7 @@
 ✏️ I’m currently learning React, typescript and AWS Solution Architect.<br>
 
 
-### I'm currently working on...
+<b>I'm currently working on...</b>
 - [GongDada - Study management web application with Deep Learning](https://github.com/WoooDada) : React.js, YOLOv5
 - [BeanYard(GDSC Solution Challenge)](https://github.com/dsc-sookmyung/2022-Sook4-SolutionChallenge) : React.js
 - [Kusitms Corporate Project](https://github.com/Woojung0618/KUSITMS25_CorporateProject) (with [Readyme](https://www.readyme.kr/)) : React.js
@@ -14,7 +14,7 @@
 
 
 ## Skills
-### Languages
+<b>Languages</b>
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> 
@@ -22,12 +22,14 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
  -->
-### Framework & Library
+<b>Framework & Library</b>
+
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/vue-4FC08D?style=flat-square&logo=vue&logoColor=white"/> 
 <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/> 
 <img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=nodejs&logoColor=white"/> 
 
-### Others
+<b>Others</b>
+
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
 <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=amazon&logoColor=white"/> 
@@ -35,7 +37,8 @@
 <img src="https://img.shields.io/badge/sublime text-FF9800?style=flat-square&logo=sublime text&logoColor=white"/> 
 
 
-## Contact
+<b>Contact</b>
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&mailto:woojung0618@gmail.com)](mailto:woojung0618@gmail.com)
 
 
