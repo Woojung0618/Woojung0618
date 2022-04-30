@@ -7,8 +7,9 @@
 
 
 <b>I'm currently working on...</b>
-- [GongDada - Study management web application with Deep Learning](https://github.com/WoooDada) : React.js, YOLOv5
-- [BeanYard(GDSC Solution Challenge)](https://github.com/dsc-sookmyung/2022-Sook4-SolutionChallenge) : React.js
+- [GongDada - Study Management Web Application with Deep Learning](https://github.com/WoooDada) : React.js, YOLOv5
+- [BeanYard (beta ver.) (GDSC Winter Hackathon)](https://github.com/gdsckoreahackathon2022/19_beanYard) : React.js
+- [BeanYard 1.0 (GDSC Solution Challenge)](https://github.com/dsc-sookmyung/2022-Sook4-SolutionChallenge) : React.js
 - [Kusitms Corporate Project](https://github.com/Woojung0618/KUSITMS25_CorporateProject) (with [Readyme](https://www.readyme.kr/)) : React.js
 - [Kusitms forPet](https://github.com/Kusitms-25th-forPet) (still in development) : React, typescript
 
