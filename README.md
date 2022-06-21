@@ -27,21 +27,19 @@
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/> 
-<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=nodejs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
 
 <b>Others</b>
 
-<img src="https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> 
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
-<img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=amazon&logoColor=white"/> 
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> 
-<img src="https://img.shields.io/badge/sublime text-FF9800?style=flat-square&logo=sublime text&logoColor=white"/> 
+<!-- <img src="https://img.shields.io/badge/AmazonAWS-#232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>  -->
+<!-- <img src="https://img.shields.io/badge/SublimeText-FF9800?style=flat-square&logo=SublimeText&logoColor=white"/>  -->
 
 
-<b>Contact</b>
+<!-- <b>Contact</b> -->
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&mailto:woojung0618@gmail.com)](mailto:woojung0618@gmail.com)
-
-
+<!-- <a href="mailto:woojung0618@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=s@gmail.com"/></a> -->
 <!--  [![Woojung's github stats](https://github-readme-stats.vercel.app/api?username=Woojung0618&theme=jolly)](https://github.com/Woojung0618/github-readme-stats) -->
  
