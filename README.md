@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
  -->
-<b>Framework & Library</b>
+<b>Framework</b>
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> 
 <img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/> 
