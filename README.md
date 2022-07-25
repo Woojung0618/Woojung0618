@@ -3,7 +3,7 @@
 ### Hi there 👋
 🌱 I'm a growing Junior Developer.<br>
 🔭 I'm interested in Frontend and Data Analysis.<br>
-✏️ I’m currently learning React, typescript and AWS Solution Architect.<br>
+<!--✏️ I’m currently learning React, typescript and AWS Solution Architect.<br> -->
 
 
 <b>I'm currently working on...</b>
