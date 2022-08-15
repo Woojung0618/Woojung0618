@@ -1,18 +1,18 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoojung0618&count_bg=%239E3DC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi there 👋
-🌱 I'm a growing Junior Developer.<br>
+🌱 I'm a growing FE Developer.<br>
 🔭 I'm interested in Frontend and Data Analysis.<br>
-<!--✏️ I’m currently learning React, typescript and AWS Solution Architect.<br> -->
+✏️ I’m currently learning React, React Native, and Cloud System.<br>
 
-
+<!--
 <b>I'm currently working on...</b>
 - [GongDada - Study Management Web Application with Deep Learning](https://github.com/WoooDada) : React.js, YOLOv5
 - [BeanYard (beta ver.) (GDSC Winter Hackathon)](https://github.com/gdsckoreahackathon2022/19_beanYard) : React.js
 - [BeanYard 1.0 (GDSC Solution Challenge)](https://github.com/dsc-sookmyung/2022-Sook4-SolutionChallenge) : React.js
 - [Kusitms Corporate Project](https://github.com/Woojung0618/KUSITMS25_CorporateProject) (with [Readyme](https://www.readyme.kr/)) : React.js
 - [Kusitms forPet](https://github.com/Kusitms-25th-forPet) : React, typescript
-
+-->
 
 ## Skills
 <b>Languages</b>
